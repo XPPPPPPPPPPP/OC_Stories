@@ -1,6 +1,6 @@
 ![image](https://github.com/XPPPPPPPPPPP/OC_Stories/blob/main/%E6%BA%9F%E8%BE%B0noravia/%E8%87%AA%E8%AE%BE/logo.png)
-![image](%E6%BA%9F%E8%BE%B0noravia/%E8%87%AA%E8%AE%BE/%E4%BC%8A%E8%80%81%E5%B8%88%E8%B5%A0%E5%9B%BE1.png)
-![image]()
+![image](https://github.com/XPPPPPPPPPPP/OC_Stories/blob/main/%E6%BA%9F%E8%BE%B0noravia/%E8%87%AA%E8%AE%BE/%E4%BC%8A%E8%80%81%E5%B8%88%E8%B5%A0%E5%9B%BE1.png)
+![image](https://github.com/XPPPPPPPPPPP/OC_Stories/blob/main/%E6%BA%9F%E8%BE%B0noravia/%E8%87%AA%E8%AE%BE/%E4%BC%8A%E8%80%81%E5%B8%88%E8%B5%A0%E5%9B%BE2.png)
 ![image]()
 ![image]()
 ![image]()
